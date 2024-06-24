@@ -1,2 +1,4 @@
-# csharp-training-beginner-projects
-C# Beginner Projects
+# C# Beginner Projects
+<ol>
+  <li>Calculator</li>
+</ol>
