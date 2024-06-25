@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\bin\Debug\Dice.exe.config
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\bin\Debug\Dice.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\bin\Debug\Dice.pdb
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\obj\Debug\Dice.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\obj\Debug\Dice.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\Dice\obj\Debug\Dice.pdb
