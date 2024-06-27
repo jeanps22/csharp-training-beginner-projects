@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\bin\Debug\GuessingNumberGame.exe.config
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\bin\Debug\GuessingNumberGame.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\bin\Debug\GuessingNumberGame.pdb
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\obj\Debug\GuessingNumberGame.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\obj\Debug\GuessingNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\obj\Debug\GuessingNumberGame.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\GuessingNumberGame\obj\Debug\GuessingNumberGame.pdb
