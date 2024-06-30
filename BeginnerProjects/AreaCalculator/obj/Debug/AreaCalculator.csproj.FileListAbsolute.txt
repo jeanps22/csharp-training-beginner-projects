@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\bin\Debug\AreaCalculator.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\obj\Debug\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\obj\Debug\AreaCalculator.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\AreaCalculator\obj\Debug\AreaCalculator.pdb
