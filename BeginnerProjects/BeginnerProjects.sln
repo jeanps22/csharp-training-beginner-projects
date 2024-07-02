@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingNumberGame", "Guess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{FAE039BA-662B-4801-9E03-4C13041F98D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnBasedCombatGame", "TurnBasedCombatGame\TurnBasedCombatGame.csproj", "{6CC1BBC1-0DED-4CD2-9BA4-F9C9076CED00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FAE039BA-662B-4801-9E03-4C13041F98D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE039BA-662B-4801-9E03-4C13041F98D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE039BA-662B-4801-9E03-4C13041F98D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC1BBC1-0DED-4CD2-9BA4-F9C9076CED00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC1BBC1-0DED-4CD2-9BA4-F9C9076CED00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC1BBC1-0DED-4CD2-9BA4-F9C9076CED00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC1BBC1-0DED-4CD2-9BA4-F9C9076CED00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
