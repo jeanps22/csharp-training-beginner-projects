@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\ToDoList\obj\Debug\ToDoList.pdb

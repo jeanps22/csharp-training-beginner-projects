@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnBasedCombatGame", "Turn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{0BF8609D-5458-4D8E-93B9-AEA44A269107}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{831C7EC6-0981-47B6-9B85-3EE92D3DE377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0BF8609D-5458-4D8E-93B9-AEA44A269107}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF8609D-5458-4D8E-93B9-AEA44A269107}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BF8609D-5458-4D8E-93B9-AEA44A269107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831C7EC6-0981-47B6-9B85-3EE92D3DE377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831C7EC6-0981-47B6-9B85-3EE92D3DE377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831C7EC6-0981-47B6-9B85-3EE92D3DE377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831C7EC6-0981-47B6-9B85-3EE92D3DE377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
