@@ -1,0 +1,7 @@
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\bin\Debug\CurrencyTemperatureConverter.exe.config
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\bin\Debug\CurrencyTemperatureConverter.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\bin\Debug\CurrencyTemperatureConverter.pdb
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\obj\Debug\CurrencyTemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\obj\Debug\CurrencyTemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\obj\Debug\CurrencyTemperatureConverter.exe
+C:\Users\phili\OneDrive\Desktop\Estudos\Projetos Soltos\C# Beginner Projects\csharp-training-beginner-projects\BeginnerProjects\CurrencyTemperatureConverter\obj\Debug\CurrencyTemperatureConverter.pdb
