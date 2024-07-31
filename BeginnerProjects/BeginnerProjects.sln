@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyTemperatureConverter", "CurrencyTemperatureConverter\CurrencyTemperatureConverter.csproj", "{2FD1B9F6-7FDB-4C5E-8EC5-3CA060AB430A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzGame", "QuizzGame\QuizzGame.csproj", "{26CC078A-C04B-4892-AFDD-46AE267509A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizzGame", "QuizzGame\QuizzGame.csproj", "{26CC078A-C04B-4892-AFDD-46AE267509A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{3E971AE4-7178-49AA-B332-DBEEBE82ECAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{26CC078A-C04B-4892-AFDD-46AE267509A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26CC078A-C04B-4892-AFDD-46AE267509A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26CC078A-C04B-4892-AFDD-46AE267509A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E971AE4-7178-49AA-B332-DBEEBE82ECAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E971AE4-7178-49AA-B332-DBEEBE82ECAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E971AE4-7178-49AA-B332-DBEEBE82ECAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E971AE4-7178-49AA-B332-DBEEBE82ECAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

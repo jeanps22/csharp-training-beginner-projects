@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("QuizzGame")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8edec3c7742a35df2047a6b673b8a9ec743b2109")]
-[assembly: System.Reflection.AssemblyProductAttribute("QuizzGame")]
-[assembly: System.Reflection.AssemblyTitleAttribute("QuizzGame")]
+[assembly: System.Reflection.AssemblyProductAttribute("TicTacToe")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TicTacToe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
