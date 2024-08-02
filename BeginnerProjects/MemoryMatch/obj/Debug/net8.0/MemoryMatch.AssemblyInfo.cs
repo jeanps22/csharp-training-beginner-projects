@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MemoryMatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb8f2f7dcb38579928702c2ff8e1f0f77fe78d9")]
-[assembly: System.Reflection.AssemblyProductAttribute("TicTacToe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TicTacToe")]
+[assembly: System.Reflection.AssemblyProductAttribute("MemoryMatch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MemoryMatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
